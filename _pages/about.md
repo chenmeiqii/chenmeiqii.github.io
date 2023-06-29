@@ -22,12 +22,13 @@ My name is Meiqi Chen (陈美琪), a third-year Ph.D. student in Computer Scienc
 # 📒 Preprint
 - [r-GAT: Relational Graph Attention Network for Multi-Relational Graphs](https://arxiv.org/pdf/2109.05922.pdf), Meiqi Chen, Yuan Zhang, Xiaoyu Kou, Yuntao Li, Yan Zhang. 
 
-# 📝 Publications 
+# 📝 Publications
+^ indicates equal contribution.
 - CHEER: Centrality-aware High-order Event Reasoning Network for Document-level Event Causality Identification, Meiqi Chen, Yixin Cao, Yan Zhang, Zhiwei Liu. **ACL 2023**
 - [ERGO: Event Relational Graph Transformer for Document-level Event Causality Identification](https://aclanthology.org/2022.coling-1.185/), Meiqi Chen, Yixin Cao, Kunquan Deng, Mukai Li, Kun Wang, Jing Shao, Yan Zhang. **COLING 2022 (Oral)**
 - [Hierarchical Hypergraph Recurrent Attention Network for Temporal Knowledge Graph Reasoning](https://ieeexplore.ieee.org/document/10095378), Jiayan Guo, Meiqi Chen, Yan Zhang, Jianqiang Huang, Zhiwei Liu.  **ICASSP 2023 (Oral)**
-- [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), Yubo Ma*, Zehao Wang*, Mukai Li*, Yixin Cao*, Meiqi Chen*, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao (*Equal Contribution). **ACL 2022 (Demo Track)**
-- [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/), Yubo Ma*, Zehao Wang*, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao (*Equal Contribution). **ACL 2022**
+- [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), Yubo Ma^, Zehao Wang^, Mukai Li^, Yixin Cao^, Meiqi Chen^, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao. **ACL 2022 (Demo Track)**
+- [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/), Yubo Ma^, Zehao Wang^, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao. **ACL 2022**
 
 
 # 🎖 Honors and Awards
