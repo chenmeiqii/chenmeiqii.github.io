@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Academic Services"
+    url: "/#-academic-services"
+  
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
