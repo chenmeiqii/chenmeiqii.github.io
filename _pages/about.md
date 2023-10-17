@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. student in Computer Science at [Peking University (PKU)], advised by [Prof. Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). I also work closely with [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage) at Singapore Management University (SMU). My research interests lie in natural language understanding, including event-centric information extraction, causal reasoning, and logical reasoning (especially with large language models). 
+My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. student in Computer Science at Peking University (PKU), advised by [Prof. Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). I also work closely with [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage) at Singapore Management University (SMU). My research interests lie in natural language understanding, including event-centric information extraction, causal reasoning, and logical reasoning (especially with large language models). 
 
 # 📒 Preprint
 - [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/abs/2310.09158), **Meiqi Chen**, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li.
