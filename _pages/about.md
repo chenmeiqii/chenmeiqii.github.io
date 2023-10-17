@@ -41,7 +41,7 @@ My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. student in Computer Scien
 # 🎖 Honors and Awards
 - *2023.09* Award for Excellent Research, Peking University.
 - *2023.09* Guangyao & Peking University Scholarship.
-- *2023.06* First Prize of Challenge Cup Competiton, Peking University.
+- *2023.06* First Prize of Challenge Cup Competition, Peking University.
 - *2022.09* Merit Student of Peking University. 
 - *2022.09* Schlumberger & Peking University Scholarship.
 - *2020.03* Award for Excellent Graduates of Sichuan Province (Top 1%)
@@ -52,6 +52,6 @@ My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. student in Computer Scien
 - *2016.09 - 2020.06*, Undergraduate, University of Electronic Science And Technology of China. 
 
 # 💻 Internships
-- *2023.8 - Present* Research Intern, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), mentored by [Chaochao Lu](https://causallu.com/).
+- *2023.8 - Present*, Research Intern, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), mentored by [Chaochao Lu](https://causallu.com/).
 - *2022.11 - 2023.6*, Research Intern, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by [Kaitao Song](https://scholar.google.com/citations?user=LLk9dR8AAAAJ&hl=en).
 - *2021.8 - 2022.8*, Research Intern, [Sensetime Research](https://www.sensetime.com/en/), directed by [Jing Shao](https://amandajshao.github.io/).
