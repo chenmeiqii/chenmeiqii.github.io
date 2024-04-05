@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. student in Computer Science at Peking University (PKU), advised by [Prof. Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). I also work closely with [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage) at Singapore Management University (SMU). My research interests lie in natural language understanding, including event-centric information extraction, causal reasoning, and logical reasoning (especially with large language models). 
+My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. candidate in the School of Artificial Intelligence at Peking University (PKU), advised by [Prof. Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). I also work closely with [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage) at Singapore Management University (SMU). My research interests lie in large language models and event-centric information extraction.
 
 # 📒 Preprint
-- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/abs/2310.09158), **Meiqi Chen**, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li.
+- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/pdf/2403.18346.pdf), **Meiqi Chen**, Yixin Cao, Yan Zhang, Chaochao Lu.
+- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/pdf/2310.09158.pdf), **Meiqi Chen**, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li.
 - [r-GAT: Relational Graph Attention Network for Multi-Relational Graphs](https://arxiv.org/pdf/2109.05922.pdf), **Meiqi Chen**, Yuan Zhang, Xiaoyu Kou, Yuntao Li, Yan Zhang. 
 
 # 📝 Publications
@@ -32,7 +33,7 @@ My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. student in Computer Scien
 - [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/), Yubo Ma^, Zehao Wang^, Yixin Cao, Mukai Li, **Meiqi Chen**, Kun Wang, Jing Shao. **ACL 2022**
 
 # 📚 Academic Services
-- *Reviewer,* ACL 2023, CCL 2023, ARR 2023
+- *Reviewer,* ACL 2023, CCL 2023, ARR 2023, ARR 2024, CCL 2024.
 
 # 👩🏻‍🏫 Teaching
 - *Teaching Assistant,*  Algorithm Design and Analysis, Peking University, Spring 2022
