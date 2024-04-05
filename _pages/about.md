@@ -20,7 +20,7 @@ redirect_from:
 My name is Meiqi Chen (陈美琪), a fourth-year Ph.D. candidate in the School of Artificial Intelligence at Peking University (PKU), advised by [Prof. Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). I also work closely with [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage) at Singapore Management University (SMU). My research interests lie in large language models and event-centric information extraction.
 
 # 📒 Preprint
-- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/pdf/2403.18346.pdf), **Meiqi Chen**, Yixin Cao, Yan Zhang, Chaochao Lu.
+- [Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective](https://arxiv.org/pdf/2403.18346.pdf), **Meiqi Chen**, Yixin Cao, Yan Zhang, Chaochao Lu.
 - [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/pdf/2310.09158.pdf), **Meiqi Chen**, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li.
 - [r-GAT: Relational Graph Attention Network for Multi-Relational Graphs](https://arxiv.org/pdf/2109.05922.pdf), **Meiqi Chen**, Yuan Zhang, Xiaoyu Kou, Yuntao Li, Yan Zhang. 
 
