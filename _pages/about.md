@@ -28,8 +28,8 @@ My name is Meiqi Chen (陈美琪), a final-year Ph.D. student in the School of A
 # 📝 Publications
 ^ indicates equal contribution.
 - [CELLO: Causal Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2406.19131), **Meiqi Chen**, Bo Peng, Yan Zhang, Chaochao Lu. **EMNLP 2024**
-- [Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective](https://arxiv.org/pdf/2403.18346.pdf), **Meiqi Chen**, Yixin Cao, Yan Zhang, Chaochao Lu. Fingdings of **EMNLP 2024**
-- [Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation](https://arxiv.org/pdf/2409.17313), Zehao Wang, Minye Wu, Yixin Cao, Yubo Ma, **Meiqi Chen**, Tinne Tuytelaars. Fingdings of **EMNLP 2024**
+- [Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective](https://arxiv.org/pdf/2403.18346.pdf), **Meiqi Chen**, Yixin Cao, Yan Zhang, Chaochao Lu. Findings of **EMNLP 2024**
+- [Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation](https://arxiv.org/pdf/2409.17313), Zehao Wang, Minye Wu, Yixin Cao, Yubo Ma, **Meiqi Chen**, Tinne Tuytelaars. Findings of **EMNLP 2024**
 - [MMLONGBENCH-DOC: Benchmarking Long-context Document Understanding with Visualizations](https://arxiv.org/pdf/2407.01523), Yubo Ma, Yuhang Zang, Liangyu Chen, **Meiqi Chen**, Yizhu Jiao, Xinze Li, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun. **Neurips 2024 (Spotlight)**
 - [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/pdf/2310.09158.pdf), **Meiqi Chen**, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li. **ACL 2024 (Oral)**
 - [CHEER: Centrality-aware High-order Event Reasoning Network for Document-level Event Causality Identification](https://aclanthology.org/2023.acl-long.604/), **Meiqi Chen**, Yixin Cao, Yan Zhang, Zhiwei Liu. **ACL 2023**
